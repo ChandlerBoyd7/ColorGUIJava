@@ -32,7 +32,7 @@ public class GUI extends JFrame implements ActionListener {
 		jpActions = new JPanel();
 		jpList = new JPanel();
 		jpBottom = new JPanel();
-		
+		System.out.println("Chandler Boyd");
 		jl0 = new JLabel("Name");
 		jl1 = new JLabel("Red");
 		jl2 = new JLabel("Green");
